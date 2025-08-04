@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.BHrE6nLq.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"treasure_box/virt/index.md","filePath":"treasure_box/virt/index.md"}'),a={name:"treasure_box/virt/index.md"};function o(n,s,i,c,d,_){return r(),t("div")}const m=e(a,[["render",o]]);export{x as __pageData,m as default};
